@@ -1,5 +1,6 @@
 {
   "block.the_fog_is_coming.bleeding_obsidian": "Кровоточащий обсидиан",
+  "block.the_fog_is_coming.enshrouded_portal": "Окутанный портал",
 
   "item.the_fog_is_coming.tear_of_the_man": "Слеза §kГромобоя§r",
   "item.the_fog_is_coming.fogman_spawn_egg": "Яйцо призыва §kГромобоя§r",
@@ -7,6 +8,7 @@
 
   "entity.the_fog_is_coming.the_man": "§kГромобой§r",
   "entity.the_fog_is_coming.the_man_hallucination": "§kГромобой§r",
+  "entity.the_fog_is_coming.the_man_paranoia": "§kГромобой§r?",
 
   "effect.the_fog_is_coming.paranoia": "Паранойя",
   "effect.the_fog_is_coming.paranoia.description": "Накладывается после того, как §kГромобой§r убьёт кого-то после погони.",
@@ -27,8 +29,14 @@
   "gamerule.manAmbientSoundChance": "Шанс проигрывания звука вместо появления Громобоя",
   "gamerule.manSpawnCooldown": "Время между возможными появлениями Громобоя",
 
-  "gamerule.manMinSpawnRange": "Минимальная дистанция появления Громобоя",
-  "gamerule.manMaxSpawnRange": "Максимальная дистанция появления Громобоя",
+  "gamerule.manCanSpawnInDay": "Может ли Громобой появляться днём",
 
-  "gamerule.manShouldBreakGlass": "Может ли Громобой ломать стекло"
+  "gamerule.manShouldGiveDarknessEffect": "Должен ли Громобой накладывать эффект тьмы на игроков поблизости",
+  "gamerule.manShouldGiveSpeedEffect": "Должен ли Громобой накладывать эффект скорости на игроков поблизости",
+
+  "gamerule.manMinSpawnRange": "Минимальное расстояние появления Громобоя",
+  "gamerule.manMaxSpawnRange": "Максимальное расстояние появления Громобоя",
+
+  "gamerule.manShouldBreakGlass": "Может ли Громобой ломать стекло",
+  "gamerule.manShouldBreakLightSources": "Может ли Громобой ломать источники света"
 }
