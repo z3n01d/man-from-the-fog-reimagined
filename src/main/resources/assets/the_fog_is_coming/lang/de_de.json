@@ -1,30 +1,32 @@
 {
   "block.the_fog_is_coming.bleeding_obsidian": "Blutender Obsidian",
-  "block.the_fog_is_coming.enshrouded_portal": "Eingehüllt Portal",
+  "block.the_fog_is_coming.enshrouded_portal": "Eingehülltes Portal",
+  "block.the_fog_is_coming.erebus_lantern": "Erebus-Laterne",
 
   "item.the_fog_is_coming.tear_of_the_man": "Träne von §kDer Mann§r",
+  "item.the_fog_is_coming.erebus_orb": "Erebus-Kugel",
   "item.the_fog_is_coming.fogman_spawn_egg": "§kDer Mann§r Laichen Ei",
-  "item.the_fog_is_coming.mans_claws": "Der Mann's Krallen",
+  "item.the_fog_is_coming.mans_claws": "Der Manns Krallen",
 
   "entity.the_fog_is_coming.the_man": "§kDer Mann§r",
   "entity.the_fog_is_coming.the_man_hallucination": "§kDer Mann§r",
   "entity.the_fog_is_coming.the_man_paranoia": "Der Mann?",
 
   "effect.the_fog_is_coming.paranoia": "Paranoia",
-  "effect.the_fog_is_coming.paranoia.description": "Wird den Spielern gegeben nach §kDer Mann§r tötet jemanden in seinem Verfolgungsstaat.",
+  "effect.the_fog_is_coming.paranoia.description": "Wird den Spielern gegeben, nachdem §kDer Mann§r jemanden in seinem Verfolgungszustand tötet.",
 
-  "subtitles.the_fog_is_coming.man_alarm": "§kDer Mann§r alarms",
+  "subtitles.the_fog_is_coming.man_alarm": "§kDer Mann§r Alarme",
   "subtitles.the_fog_is_coming.man_pain": "§kDer Mann§r tut weh",
   "subtitles.the_fog_is_coming.man_attack": "§kDer Mann§r Angriffe",
-  "subtitles.the_fog_is_coming.man_spit": "§Der Mann§r spuckt Säure",
-  "subtitles.the_fog_is_coming.man_slash": "§kDer Mann§r Schrägstriche",
+  "subtitles.the_fog_is_coming.man_spit": "§kDer Mann§r spuckt Säure",
+  "subtitles.the_fog_is_coming.man_slash": "§kDer Mann§r schlägt",
   "subtitles.the_fog_is_coming.man_spot": "§kDer Mann§r entdeckt jemanden",
   "subtitles.the_fog_is_coming.man_idlecalm": "§kDer Mann§r knurrt",
   "subtitles.the_fog_is_coming.man_death": "§kDer Mann§r stirbt",
-  "subtitles.the_fog_is_coming.man_lunge": "§kDer Mann§r Ausfallschritte",
+  "subtitles.the_fog_is_coming.man_lunge": "§kDer Mann§r stürzt sich",
   "subtitles.the_fog_is_coming.man_creepy": "...",
 
-  "subtitles.the_fog_is_coming.shield_break": "§kThe Man§r's Schild bricht",
+  "subtitles.the_fog_is_coming.shield_break": "§kDer Mann§r's Schild bricht",
 
   "gamerule.manSpawnChanceScales": "Sollte die Spawn-Chance des Mannes abhängig von der Anzahl der Spieler skalieren?",
   "gamerule.manSpawnChance": "Die Spawn-Chance des Mannes",
@@ -38,7 +40,11 @@
 
   "gamerule.manMinSpawnRange": "Die minimale Spawn-Reichweite des Mannes",
   "gamerule.manMaxSpawnRange": "Die maximale Spawn-Reichweite des Mannes",
+  "gamerule.manCanSpawnInAnyDimension": "Soll Der Mann in jeder Dimension erscheinen dürfen?",
   
   "gamerule.manShouldBreakGlass": "Darf der Mann Glas zerschlagen?",
-  "gamerule.manShouldBreakLightSources": "Ist es dem Mann erlaubt, Lichtquellen zu zerstören?"
+  "gamerule.manShouldBreakLightSources": "Ist es dem Mann erlaubt, Lichtquellen zu zerstören?",
+
+  "gamerule.manShouldHungerBeCapped": "Sollte der Hunger des Spielers bei 8 begrenzt werden, wenn er verfolgt wird?",
+  "gamerule.manCanSummonLightning": "Kann der Mann kosmetische Blitze beschwören?"
 }
